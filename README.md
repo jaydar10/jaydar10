@@ -1,5 +1,5 @@
 heya. jay here.
-i code things occasionally.
-mostly do web stuff when i do code.
-might try to do 3DS homebrew someday.
-discord: @jaydarb10 - twitter: @jaydar27588623
+<br>i code things occasionally.
+<br>mostly do web stuff when i do code.
+<br>might try to do 3DS homebrew someday.
+<br>discord: @jaydarb10 - twitter: @jaydar27588623
