@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @jaydar10
-- 👀 I’m interested in video games and coding.
-- 🌱 I’m currently learning JS, HTML, and SQL.
-- 💞️ I’m looking to collaborate on figuring out *how the hell I github*
-- 📫 How to reach me: **idk, however you can**
-
-
+heya. jay here.
+i code things occasionally.
+mostly do web stuff when i do code.
+might try to do 3DS homebrew someday.
+discord: @jaydarb10 - twitter: @jaydar27588623
